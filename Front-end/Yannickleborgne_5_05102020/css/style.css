@@ -1,0 +1,24 @@
+h2{
+    
+    font-size: 4rem;
+   
+    
+}
+p{
+    font-family:'Dancing Script', cursive;
+}
+.presentation{
+    font-size: 2.2rem;
+}
+h5{ 
+    font-size:4rem;
+}
+h6{
+    font-size:1.8rem;
+}
+.made {
+    width:100px;
+}
+.produit{
+    opacity: 0.2;
+}
